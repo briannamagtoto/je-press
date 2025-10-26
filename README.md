@@ -1,2 +1,2 @@
-# je-press
-Jonathan Edwards Printing Press Hours
+# JE Press Hours!
+a living document for the JE press :-)
