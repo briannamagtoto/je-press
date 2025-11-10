@@ -1,0 +1,21 @@
+* {
+    font-family: 'EB Garamond', serif;
+    background-color: beige;
+    color: rgb(58, 22, 6)
+}
+
+.text-container {
+    margin: 5em;
+}
+
+a:link {
+    color: brown;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: orange;
+}
